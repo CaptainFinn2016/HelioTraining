@@ -1,0 +1,10 @@
+header{
+    margin: 0 auto;
+}
+
+img{
+    align-content: center;
+}
+header>img{
+    width: 200px;
+}
